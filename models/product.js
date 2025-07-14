@@ -29,7 +29,6 @@ const productSchema = new mongoose.Schema({
   }
 });
 
-// Add index for better search performance
 productSchema.index({ name: 'text' });
 productSchema.index({ category: 1 });
 productSchema.index({ price: 1 });
