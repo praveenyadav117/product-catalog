@@ -1,5 +1,7 @@
 Attaching the postman collection as .json for readMe
 
+clone the repo do npm install and run npm run dev to run it locally . Check the postman collectiuon for working test
+
 {
 	"info": {
 		"_postman_id": "4077b8e6-a786-4e09-82fc-7905364a70b7",
